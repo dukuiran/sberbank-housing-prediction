@@ -1,0 +1,10 @@
+仅包含数值变量的ridgeCV
+the score for train set itself: 0.311817911696
+the score for validation set: 0.319434988851
+the score for test set: 0.319764263186
+
+
+添加了product_type的哑变量之后：
+the score for train set itself: 0.319171732397
+the score for validation set: 0.324766649981
+the score for test set: 0.326876499843
