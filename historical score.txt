@@ -8,3 +8,14 @@ the score for test set: 0.319764263186
 the score for train set itself: 0.319171732397
 the score for validation set: 0.324766649981
 the score for test set: 0.326876499843
+
+
+使用randomforestregressor,10棵树的模型之后：
+the score for train set itself: 0.931066440956
+the score for validation set: 0.606596656225
+the score for verify set: 0.631810397375
+
+使用randomforestregressor,20棵树的模型之后：
+the score for train set itself: 0.939041707092
+the score for validation set: 0.627530614876
+the score for verify set: 0.637684924641
